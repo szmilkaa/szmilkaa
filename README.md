@@ -1,6 +1,7 @@
-<img src="https://64.media.tumblr.com/01b1fd1b47c760a55b268e4e36d14065/210280f173925e1a-02/s500x750/ce72a51d2050de19f9e4c618d6b9e29b7bdeecd1.pnj" align="left" width="250" style="margin-right: 25px;">
 
-<div style="height: 375px; display: flex; align-items: center;">
-    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhold up im cooking
-   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+</div>
+<img src="https://64.media.tumblr.com/8c37556961ce41b7ea1ea49930ec271d/1f7d0bafb5aa0032-c5/s1280x1920/828db53872946b874d4cd5bbb6d326d0868f87e7.pnj" align="left" width="400" style="margin-right: 25px;">
+
+<div style="height: 600px; display: flex; align-items: center;">
+    ㅤㅤㅤㅤㅤㅤㅤㅤㅤhold up im cooking
 </div>
