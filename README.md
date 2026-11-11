@@ -9,9 +9,9 @@
 <th>
 <a target="_blank" rel="noopener noreferrer nofollow"  
 ㅤ<br>
-  <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="2443c02add91f2a56e5fab3a0f4bc4fc">$\color{#cca364}{\textsf{blabalabalab}}$</math-renderer><br>
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="2443c02add91f2a56e5fab3a0f4bc4fc">$\color{#dedbb2}{\textsf{blablabala}}$</math-renderer><br>
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="2443c02add91f2a56e5fab3a0f4bc4fc">$\color{#cca364}{\textsf{balbalbala}}$</math-renderer><br>
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="2443c02add91f2a56e5fab3a0f4bc4fc">$\color{#dedbb2}{\textsf{balbalabala}}$</math-renderer><br>
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="2443c02add91f2a56e5fab3a0f4bc4fc">$\color{#cca364}{\textsf{ablalablaba}}$</math-renderer><br>
+<span style="color:#cca364;">blabalabalab</span><br>
+<span style="color:#dedbb2;">blablabala</span><br>
+<span style="color:#cca364;">balbalbala</span><br>
+<span style="color:#dedbb2;">balbalabala</span><br>
+<span style="color:#cca364;">ablalablaba</span>
  <br>
