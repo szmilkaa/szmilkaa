@@ -3,15 +3,3 @@
 
 <div style="height: 300px; display: flex; align-items: center;">
 
-
-<tr align="left"></tr>
-<tr>
-<th>
-<a target="_blank" rel="noopener noreferrer nofollow"  
-ㅤ<br>
-<span style="color:#cca364;">blabalabalab</span><br>
-<span style="color:#dedbb2;">blablabala</span><br>
-<span style="color:#cca364;">balbalbala</span><br>
-<span style="color:#dedbb2;">balbalabala</span><br>
-<span style="color:#cca364;">ablalablaba</span>
- <br>
