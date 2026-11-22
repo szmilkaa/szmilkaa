@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/a9237bba012e4a95364a1b53352c45d9/144062119f20976d-82/s2048x3072/b57b9ce972e873da8506a340c836628ad88c987f.pnj" width="650">
+<img src="https://64.media.tumblr.com/a9237bba012e4a95364a1b53352c45d9/144062119f20976d-82/s2048x3072/b57b9ce972e873da8506a340c836628ad88c987f.pnj" width="max">
 
 <br><br>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/6607af5b277756686611418a8bc9c9be/203da0d5b01fe050-76/s2048x3072/d8e15f9ef0555214c3ad4792c1fb435e92dfe536.pnj" width="650">
+<img src="https://64.media.tumblr.com/6607af5b277756686611418a8bc9c9be/203da0d5b01fe050-76/s2048x3072/d8e15f9ef0555214c3ad4792c1fb435e92dfe536.pnj" width="max">
 
 <br>
 WIPPPPPPPPPP
