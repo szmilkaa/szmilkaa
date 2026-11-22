@@ -1,1 +1,38 @@
-WIPP
+<div align="center">
+
+<img src="https://64.media.tumblr.com/a9237bba012e4a95364a1b53352c45d9/144062119f20976d-82/s2048x3072/b57b9ce972e873da8506a340c836628ad88c987f.pnj" width="650">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&pause=2500&color=AE5742&center=true&vCenter=true&width=500&lines=%22keep+the+blood.%22"/>
+
+<br><br><br>
+
+<img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="550">
+
+</div>
+<br><br>
+
+<div align="center">
+
+<img src="https://64.media.tumblr.com/6607af5b277756686611418a8bc9c9be/203da0d5b01fe050-76/s2048x3072/d8e15f9ef0555214c3ad4792c1fb435e92dfe536.pnj" width="650">
+
+<br>
+WIPPPPPPPPPP
+
+<br><br>
+
+<details>
+<summary>♱</summary>
+
+<br>
+
+<img src="https://64.media.tumblr.com/3939425810ce02dbba67273e92772f4d/b5e90bb48ba9957f-95/s1280x1920/6819632a7952c194ecda087850aac8745d6b423e.pnj" width="450">
+
+<img src="https://64.media.tumblr.com/631f9f94d19459a79c7f6e971696a034/72d6cc7ce04407ce-37/s640x960/3d86ef670c0e8d32651030369a31366309a8b864.pnj" width="450">
+
+</details>
+
+
+</div>
+
