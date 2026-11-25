@@ -10,6 +10,10 @@
 
 <img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="550">
 
+<br><br><br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31477yjjq4z4g2xvxc5eoqarkiu4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b47850&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31477yjjq4z4g2xvxc5eoqarkiu4&redirect=true)
+
 </div>
 <br><br>
 
