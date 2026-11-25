@@ -31,9 +31,9 @@ WIPPPPPPPPPP
 
 <br>
 
-<img src="https://64.media.tumblr.com/3939425810ce02dbba67273e92772f4d/b5e90bb48ba9957f-95/s1280x1920/6819632a7952c194ecda087850aac8745d6b423e.pnj" width="450">
+<img src="https://64.media.tumblr.com/3939425810ce02dbba67273e92772f4d/b5e90bb48ba9957f-95/s1280x1920/6819632a7952c194ecda087850aac8745d6b423e.pnj" width="350">
 
-<img src="https://64.media.tumblr.com/631f9f94d19459a79c7f6e971696a034/72d6cc7ce04407ce-37/s640x960/3d86ef670c0e8d32651030369a31366309a8b864.pnj" width="450">
+<img src="https://64.media.tumblr.com/631f9f94d19459a79c7f6e971696a034/72d6cc7ce04407ce-37/s640x960/3d86ef670c0e8d32651030369a31366309a8b864.pnj" width="350">
 
 </details>
 
