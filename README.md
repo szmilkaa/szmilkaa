@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=2500&color=AE5742&center=true&vCenter=true&width=500&lines=%22Because+I'm+a+fucking+cockroach+!!%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=2500&color=AE5742&center=true&vCenter=true&width=500&lines=%22𝙱𝚎𝚌𝚊𝚞𝚜𝚎+𝙸'𝚖+𝚊+𝚏𝚞𝚌𝚔𝚒𝚗𝚐+𝚌𝚘𝚌𝚔𝚛𝚘𝚊𝚌𝚑+!!%22"/>
 
 <br><br><br>
 
