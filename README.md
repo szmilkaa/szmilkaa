@@ -12,9 +12,9 @@
 
 <div align="center">
 
- .... ....... ...
+<span style="color:#b99e86;">Pt's Q!Ewron</span>
 
-<a href="https://szmilka.atabook.org/">ata</a> ..... <a href="https://szmilkabyi.straw.page/">byi</a>
+<a href="https://szmilka.atabook.org/">ata</a>  ⠀ ⠀𓂃   ⠀⠀<a href="https://szmilkabyi.straw.page/">byi</a>
 
  <a href="https://linktr.ee/szmilka">more!</a>
 
