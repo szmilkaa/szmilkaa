@@ -23,7 +23,7 @@ more
 
 <br>
 
-<img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="550">
+<img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="350">
 
 <br><br>
 
