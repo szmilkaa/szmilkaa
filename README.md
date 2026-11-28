@@ -8,16 +8,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=3000&color=AE5742&center=true&vCenter=true&width=700&lines=Because+I%27m+a+fucking+cockroach+.%E1%90%9F" style="max-width: 100%;" />
 </p>
 
-<br><br><br>
+<br>
 
-<img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="550">
+ .... ....... ...
 
-<br><br><br>
+ ata ..... byi
+
+ more
+
+<br>
+
+
+<img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="580">
+
+<br><br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31477yjjq4z4g2xvxc5eoqarkiu4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ae5742&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-<br><br>
+<br>
 
 <div align="center">
 
