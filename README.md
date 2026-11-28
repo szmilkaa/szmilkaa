@@ -27,7 +27,7 @@ more
 
 <br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31477yjjq4z4g2xvxc5eoqarkiu4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ae5742&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31477yjjq4z4g2xvxc5eoqarkiu4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ae5742&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 <br>
