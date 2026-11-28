@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=3000&color=AE5742&center=true&vCenter=true&width=700&lines=Because+I%27m+a+fucking+cockroach+.%E1%90%9F" style="max-width: 100%;" />
 </p>
-<br>
+
+
 
 <div align="center">
 
@@ -20,7 +21,7 @@ more
 </div>
 
 
-<br><br>
+<br>
 
 <img src="https://64.media.tumblr.com/6972144fb9fa22f7b518c81ff5b5acac/6dfbeed256250d11-8d/s2048x3072/5442c3e51d99f481955ad77d71bfd3520f304173.pnj" width="550">
 
