@@ -4,7 +4,9 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&pause=2500&color=AE5742&center=true&vCenter=true&width=500&lines=%22WIPPPP%22"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=3000&color=AE5742&center=true&vCenter=true&width=700&lines=Because+I%27m+a+fucking+cockroach+.%E1%90%9F" style="max-width: 100%;" />
+</p>
 
 <br><br><br>
 
@@ -22,9 +24,6 @@
 <img src="https://64.media.tumblr.com/6607af5b277756686611418a8bc9c9be/203da0d5b01fe050-76/s2048x3072/d8e15f9ef0555214c3ad4792c1fb435e92dfe536.pnj" width="max">
 
 <br>
-WIPPPPPPPPPP
-
-<br><br>
 
 <details>
 <summary>♱</summary>
@@ -37,7 +36,6 @@ WIPPPPPPPPPP
 
 <img src="https://64.media.tumblr.com/9849591802002d09b9bda4970ef4b473/d186d6e93ac0704c-88/s1280x1920/5641f70a7ceab4dc989f7f468facd303767ed353.jpg" width="350">
 </details>
-
 
 </div>
 
