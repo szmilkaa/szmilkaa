@@ -26,7 +26,7 @@
 <br>
 
 <details>
-<summary>♱</summary>
+<summary>♱&color=AE5742&</summary>
 
 <br>
 
