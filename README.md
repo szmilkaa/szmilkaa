@@ -13,7 +13,7 @@
 <div align="center">
 
 .... ....... WIPWIWPWIWPWPP WIPPPPPPPPPPPPPPPPPPP
-<span style="color:#b99e86;">tekst</span>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&color=B99E86&center=true&vCenter=true&width=700&lines=Pt's+Q!Ewron" />
 
 
 <a href="https://szmilka.atabook.org/">ata</a>  ⠀ ⠀𓂃   ⠀⠀<a href="https://szmilkabyi.straw.page/">byi</a>
