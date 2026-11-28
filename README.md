@@ -14,9 +14,9 @@
 
  .... ....... ...
 
-ata ..... byi
+<a href="https://szmilka.atabook.org/">ata</a> ..... <a href="https://szmilkabyi.straw.page/">byi</a>
 
-more
+ <a href="https://linktr.ee/szmilka">more!</a>
 
 </div>
 
