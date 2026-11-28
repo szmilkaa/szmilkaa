@@ -12,7 +12,7 @@
 
 <div align="center">
 
-.... ....... WIPWIWPWIWPWPP WIPPPPPPPPPPPPPPPPPPP
+.... ....... WIPWIWPWIWPWPP WIPPPPPPPPPPPPPPPPPPP<span style="color:#b99e86;">tekst</span>
 
 
 <a href="https://szmilka.atabook.org/">ata</a>  ⠀ ⠀𓂃   ⠀⠀<a href="https://szmilkabyi.straw.page/">byi</a>
